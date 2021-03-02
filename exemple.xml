@@ -1,0 +1,25 @@
+<!-- On appelle cette balise comme on veut -->
+<liste>
+
+<!-- Ex non-réel -->
+	<pizza>
+	
+		<nomPizza>Boston</nomPizza>
+		<végétarienne>1</végétarienne>
+		<new>1</new>
+		<codeTarif>3</codeTarif>
+		<nomGenre>Nos Classics</nomGenre>		
+	
+	</pizza>
+	
+	<pizza>
+	
+		<nomPizza>Asiatique</nomPizza>
+		<végétarienne>0</végétarienne>
+		<new>0</new>
+		<codeTarif>2</codeTarif>
+		<nomGenre>Nos Classics</nomGenre>		
+	
+	</pizza>
+	
+</liste>
